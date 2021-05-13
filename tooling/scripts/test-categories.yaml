@@ -133,7 +133,7 @@ group-09:
   - kafka-sasl-ssl
   - kafka-ssl
   - messaging
-  - nats
+#  - nats
   - splunk
   - spring-rabbitmq
   - xchange
